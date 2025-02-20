@@ -4,7 +4,11 @@ I'm a developer passionate about building user-friendly, reliable, and scalable 
 
 I'm the co-creator of **[River](https://riverqueue.com)**—a fast and reliable background job system for Go and Postgres. River is fully-featured and built to scale, and its transactional enqueueing model eliminates entire categories of distributed systems challenges. Check it out at **[riverqueue.com](https://riverqueue.com)** or dive into the code [here](https://github.com/riverqueue/river).
 
-![River Logo](https://github.com/riverqueue/.github/raw/master/profile/logo.png)
+<p align="center">
+  <a href="https://riverqueue.com">
+    <img src="https://github.com/riverqueue/.github/raw/master/profile/logo.png" width="150" alt="River logo" />
+  </a>
+</p>
 
 ## About Me
 
